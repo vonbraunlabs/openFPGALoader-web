@@ -12,7 +12,7 @@
 	url = git://developer.intra2net.com/libftdi
 [submodule "openFPGALoader"]
 	path = openFPGALoader-src
-	url = https://github.com/trabucayre/openFPGALoader
+	url = https://github.com/vonbraunlabs/openFPGALoader
 [submodule "hidapi-src"]
 	path = hidapi-src
 	url = https://github.com/libusb/hidapi
